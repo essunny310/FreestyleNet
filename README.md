@@ -1,2 +1,6 @@
 # FreestyleNet
-[CVPR 2023] Freestyle Layout-to-Image Synthesis
+Official PyTorch implementation of **Freestyle Layout-to-Image Synthesis**
+
+![Teaser](./files/teaser.png)
+
+Code coming soon. Stay tuned!
