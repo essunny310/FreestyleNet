@@ -11,4 +11,17 @@ FreestyleNet is a diffusion-based network that can generate diverse semantics on
 
 ![img](./files/FreestyleNet_vs_ControlNet.png)
 
+## Citation
+
+If you find FreestyleNet useful for your work, please kindly consider citing our paper:
+
+```bibtex
+@inproceedings{xue2023freestylenet,
+  title = {Freestyle Layout-to-Image Synthesis},
+  author = {Xue, Han and Huang, Zhiwu and Sun, Qianru and Song, Li and Zhang, Wenjun},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}, 
+  year = {2023},
+}
+```
+
 Code coming soon. Stay tuned!
