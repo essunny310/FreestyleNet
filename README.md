@@ -1,6 +1,9 @@
 # FreestyleNet
 Official PyTorch implementation of [Freestyle Layout-to-Image Synthesis](https://arxiv.org/abs/2303.14412)
 
+[![arXiv](https://img.shields.io/badge/arXiv-2303.14412-b31b1b.svg)](https://arxiv.org/abs/2303.14412)
+[![Project Website]](https://img.shields.io/badge/🌎-Website-blue.svg)](https://essunny310.github.io/FreestyleNet/)
+
 ## Introduction
 
 FreestyleNet is a diffusion-based network that can generate diverse semantics onto a given layout. Compared to prior layout-to-image synthesis methods and text-to-image generation models (e.g., Stable Diffusion), FreestyleNet is armed with more controllability, enabling 1) the generation of semantics beyond the pre-defined semantic categories in the training dataset, and 2) the separate modulation of each class in the layout with text.
