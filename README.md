@@ -2,7 +2,7 @@
 Official PyTorch implementation of [Freestyle Layout-to-Image Synthesis](https://arxiv.org/abs/2303.14412)
 
 [![arXiv](https://img.shields.io/badge/arXiv-2303.14412-b31b1b.svg)](https://arxiv.org/abs/2303.14412)
-[![Project Website](https://img.shields.io/badge/🌎-Website-blue.svg)](https://essunny310.github.io/FreestyleNet/)
+[![Project Website](https://img.shields.io/badge/🌎-Project Website-blue.svg)](https://essunny310.github.io/FreestyleNet/)
 
 ## Introduction
 
