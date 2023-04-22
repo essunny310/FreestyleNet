@@ -1,0 +1,11 @@
+{
+  "text_label_mapping": {
+    "person": 0,
+    "boat": 8,
+    "mountain": 134,
+    "rock": 149,
+    "sea": 154,
+    "sky": 156
+  },
+  "layout_path": "examples/layout_boat.png"
+}

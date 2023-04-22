@@ -1,0 +1,13 @@
+{
+  "text_label_mapping": {
+    "book": 83,
+    "vase": 85,
+    "sunflower": 118,
+    "furniture": 122,
+    "paper": 138,
+    "plastic": 142,
+    "table": 164,
+    "concrete wall": 171
+  },
+  "layout_path": "examples/layout_flower.png"
+}

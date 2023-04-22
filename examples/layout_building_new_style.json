@@ -1,0 +1,10 @@
+{
+  "text_label_mapping": {
+    "clock": 84,
+    "building": 95,
+    "fence": 112,
+    "sky": 156,
+    "drawn by Van Gogh": -1
+  },
+  "layout_path": "examples/layout_building.png"
+}
