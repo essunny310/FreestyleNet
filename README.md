@@ -28,6 +28,7 @@ conda activate freestyle
 
 You will also need to download the pre-trained Stable Diffusion model (or manually download it from [here](https://huggingface.co/CompVis/stable-diffusion-v-1-4-original)):
 ```
+mkdir models/ldm/stable-diffusion
 wget -O models/ldm/stable-diffusion/sd-v1-4-full-ema.ckpt https://huggingface.co/CompVis/stable-diffusion-v-1-4-original/resolve/main/sd-v1-4-full-ema.ckpt
 ```
 
